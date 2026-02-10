@@ -10,7 +10,6 @@ I am a Cybersecurity Master's Student at FIU and a Software Engineer dedicated t
 - Current Goal: Pursuing the Microsoft AZ-500 (Azure Security Engineer Associate) certification.
 - CompTIA Security+ Certified: Earned my certificate of September 2025.
 - CTF Winner: Earned my AZ-500 voucher by winning the INIT FIU FlagOps CTF.
-- Learning in Public: Documenting my journey through the HOLA LATAM AZ-500 study sessions on my technical blog.
 
 ## 💻 Featured Projects
 ### AWS IAM Analysis
@@ -24,7 +23,6 @@ Focuses on secure data handling and user authentication while providing actionab
 I started my personal blog to show "the how" behind overcoming obstacles in software development and security.
 ### Software Development: 
 Tips on writing clean, maintainable code in Python and JS.
-
 ### Security Insights: 
 Practical ways to integrate security into the dev lifecycle.
 
