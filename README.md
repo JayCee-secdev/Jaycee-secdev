@@ -22,9 +22,11 @@ Focuses on secure data handling and user authentication while providing actionab
 
 ## ✍️ Writing & Community
 I started my personal blog to show "the how" behind overcoming obstacles in software development and security.
-### Software Development: Tips on writing clean, maintainable code in Python and JS.
+### Software Development: 
+Tips on writing clean, maintainable code in Python and JS.
 
-### Security Insights: Practical ways to integrate security into the dev lifecycle.
+### Security Insights: 
+Practical ways to integrate security into the dev lifecycle.
 
 ## 📫 Connect with me
 **LinkedIn:** [www.linkedin.com/in/hernandezjuan24]
