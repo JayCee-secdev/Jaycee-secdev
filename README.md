@@ -12,12 +12,11 @@ I am a Cybersecurity Master's Student at FIU and a Software Engineer dedicated t
 - CTF Winner: Earned my AZ-500 voucher by winning the INIT FIU FlagOps CTF.
 
 ## 💻 Featured Projects
-### AWS IAM Analysis
-Currently working with the INIT BUILD program at FIU on identifying and mitigating AWS IAM misconfigurations.
-
-### Resume Raccoon
-An ATS-optimization and resume-reviewer tool built with Python and Flask.
-Focuses on secure data handling and user authentication while providing actionable feedback for job seekers.
+### AWS IAM Analysis - Backend Team
+Currently collaborating in an enterprise-style DevSecOps environment to build a cloud security platform that identifies and mitigates Identity and Access Management (IAM) vulnerabilities.
+* **Cloud Authentication & Identity:** Provisioning AWS Cognito User Pools using Terraform to implement secure user authentication flows and token-based (JWT) session management.
+* **Backend Development:** Building robust Python services and APIs to handle user verification, manage Role-Based Access Control (RBAC), and interface directly with the AWS SDK (Boto3).
+* **Infrastructure as Code (IaC):** Designing and emulating cloud infrastructure configurations locally utilizing LocalStack and Docker to ensure reliable and consistent production deployments.
 
 ## ✍️ Writing & Community
 I started my personal blog to show "the how" behind overcoming obstacles in software development and security.
