@@ -9,9 +9,8 @@ I am a Cybersecurity Master's Student at FIU and a Software Engineer dedicated t
 *  **Frameworks:** Flask (Python), React.
 
 ## 🛡️ Cybersecurity Highlights
-* **Current Goal:** Pursuing the Microsoft AZ-500 (Azure Security Engineer Associate) certification.
-* **CompTIA Security+ Certified:** Earned my certificate of September 2025.
-* **CTF Winner:** Earned my AZ-500 voucher by winning the INIT FIU FlagOps CTF.
+* **CompTIA Security+ Certified:** Earned my certificate on September 2025.
+* **CTF Winner:** Winner of the 2025 INIT FIU FlagOps CTF.
 
 ## 💻 Featured Projects
 ### AWS IAM Analysis - Backend Team
