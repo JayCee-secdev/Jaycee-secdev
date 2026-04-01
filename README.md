@@ -3,6 +3,8 @@
 
 I am a Cybersecurity Master's Student at FIU and a Software Engineer dedicated to building resilient systems. My mission is to transmit knowledge and help fellow developers integrate security into the development lifecycle.
 
+---
+
 ## 🛠️ Tech Stack & Skills
 
 **Programming**
@@ -24,12 +26,16 @@ I am a Cybersecurity Master's Student at FIU and a Software Engineer dedicated t
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
+---
+
 ## 🛡️ Cybersecurity Highlights
 
-[![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-FF0000?style=for-the-badge&logo=comptia&logoColor=white)](https://www.comptia.org/certifications/security)
+[![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-FF0000?style=for-the-badge&logo=comptia&logoColor=white)](https://www.credly.com/badges/7e967b2e-3344-44a5-981e-fda87e3b50c2/public_url)
 
 * **CompTIA Security+ Certified:** Earned my certificate on September 2025.
 * **CTF Winner:** Winner of the 2025 INIT FIU FlagOps CTF.
+
+---
 
 ## 💻 Featured Projects
 ### AWS IAM Analysis - Backend Team
@@ -38,12 +44,16 @@ Currently collaborating in an enterprise-style DevSecOps environment to build a 
 * **Backend Development:** Building robust Python services and APIs to handle user verification, manage Role-Based Access Control (RBAC), and interface directly with the AWS SDK (Boto3).
 * **Infrastructure as Code (IaC):** Designing and emulating cloud infrastructure configurations locally utilizing LocalStack and Docker to ensure reliable and consistent production deployments.
 
+---
+
 ## ✍️ Writing & Community
 I started my personal blog to show "the how" behind overcoming obstacles in software development and security.
 ### Software Development: 
 Tips on writing clean, maintainable code in Python and JS.
 ### Security Insights: 
 Practical ways to integrate security into the dev lifecycle.
+
+---
 
 ## 📫 Connect with me
 
