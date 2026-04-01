@@ -27,8 +27,6 @@ Tips on writing clean, maintainable code in Python and JS.
 Practical ways to integrate security into the dev lifecycle.
 
 ## 📫 Connect with me
-**LinkedIn:** 
-[www.linkedin.com/in/hernandezjuan24]
 
-**Blog:** 
-[https://jaycee-secdev.github.io/tech-blog/]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hernandezjuan24)
+[![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://jaycee-secdev.github.io/tech-blog/)
