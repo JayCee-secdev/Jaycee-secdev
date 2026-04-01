@@ -1,5 +1,6 @@
 # Hi, I'm Juan Hernandez! 👋
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Software+Engineering;Cybersecurity)](https://git.io/typing-svg)
+
 I am a Cybersecurity Master's Student at FIU and a Software Engineer dedicated to building resilient systems. My mission is to transmit knowledge and help fellow developers integrate security into the development lifecycle.
 
 ## 🛠️ Tech Stack & Skills
