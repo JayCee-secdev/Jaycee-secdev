@@ -25,6 +25,9 @@ I am a Cybersecurity Master's Student at FIU and a Software Engineer dedicated t
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ## 🛡️ Cybersecurity Highlights
+
+[![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-FF0000?style=for-the-badge&logo=comptia&logoColor=white)](https://www.comptia.org/certifications/security)
+
 * **CompTIA Security+ Certified:** Earned my certificate on September 2025.
 * **CTF Winner:** Winner of the 2025 INIT FIU FlagOps CTF.
 
